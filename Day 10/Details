@@ -1,0 +1,10 @@
+Exception handling
+
+exception is an event which will cause program termination
+
+except---->executes only when exception occured
+else------>Executes only when exception not occured
+finally--->Always execute
+
+file handling/working with text
+---------------------------------

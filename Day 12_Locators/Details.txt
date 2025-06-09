@@ -1,0 +1,31 @@
+----------Locators--------
+
+Normal locators:-
+Id
+name
+Linktext or partial link text
+class name
+tag name
+
+customised locators:-
+css selector----
+    Tag and ID
+    Tag and Class
+    Tag and attribute
+    Tag, class and attribute
+
+Xpath---
+    Absolute Xpath
+    Relative xpath
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+1.Application commands
+2.conditional commands
+3.browser commands
+4.navigational commands
+5.wait commands
+***** coditional commands is used with web element only
+***** remaning we  use driver instance
+
+---Application commands---
+get()- opening application url
+title - capture title
+current_url - capture current url
+page_source - capture source code
+
+---conditional commands---
+is_displayed()
+is_enabled()
+is_selected()
+
+---Browser commands---
+close()
+quit()
+
+---Navigational Methods---
+back()
+forward()
+refresh()
+
+find_element()   - returns single web element
+find_elements() -returns list collection
+
+text--->returns inner text if the element
+get_attribute()---->returns values of any attribute of web element
+
+
+
+
+
+
+

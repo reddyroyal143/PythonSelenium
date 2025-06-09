@@ -1,0 +1,50 @@
+Python - Structured + object-oriented
+
+OOPS---
+Class
+Object
+Inheritance
+Polymorphism
+
+class               object
+Employee            John,Scot
+Animal              Dog, Horse
+
+Class->is a collection of Variables(attributes)&methods(behaviour)
+A class is a blue print
+Logical Entity
+Do not occupy space in the memory
+
+Object->object is a instance of a class which is physial entity
+ocuupies space in memeory
+
+For one class we can create multiple objects.
+Objects are independent..
+
+Method vs function
+FUnction-> We can create without class
+Method->create inside the class
+
+2 tpyes of methods we can define within the class..
+1)Instance Method ( We can call only through objects)
+2)Static method (We can directly call using class)
+
+Global Variable
+Class Variable
+Local Variable
+
+Method & Constructor
+
+Method:
+Give Any name
+retuns the value
+method can take arguments / parameters
+we have to use an abject to invoke the method.
+
+Constructor:
+Constructor name is fixed--->  __init__(self)
+Constructor will not return any value
+Constructor can take arguments / parameters
+Constructor will be call at the time of object creation itself
+
+

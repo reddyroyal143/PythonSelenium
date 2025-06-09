@@ -1,0 +1,34 @@
+Inheritance:
+Aquiring all the attributes(VAriables) & behaviour(methods) from one class to another class is called as inheritance
+
+Objectives:
+1.Code reusability
+2.Avoid duplication
+
+Types of Inheritance:
+1.Single
+2.Multi level
+3.Hierarchy
+4.Multiple
+
+--Polymorphism--
+Shape --- circle,rectangle,square
+Polymorphism we can implement using overloading concept
+Overloading
+
+class
+object ---->methods,static methods, constructors
+inheritance ---->types, overiding, super()
+polymorphism
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+Manual xpath----   ctrl+F to search xpath
+
+syntax of relative xpath
+-----------------------
+//tagname[@attribute='value']   we can use * also in place of tag name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

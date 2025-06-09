@@ -1,0 +1,26 @@
+Alerts/Pops
+----------
+Authenitication popup
+
+https://the-internet.herokuapp.com/basic_auth
+syntax: https://admin:admin@the-internet.herokuapp.com/basic_auth
+-----------------------
+Frames/IFrames
+
+Each section in a page is considered as a frame
+
+driver.switch_to_frame()            -----Selenium 3
+
+switch_to.frame(name of the frame)
+switch_to.frame(id of the frame)
+switch_to.frame(webelement)
+switch_to.frame(0)
+
+frame
+iframe
+form
+
+
+
+
+

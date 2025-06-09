@@ -1,0 +1,2 @@
+1.implicit wait
+2.explicit wait
