@@ -1,0 +1,4 @@
+wedtable
+---------
+static webtable
+dynamic webtable
