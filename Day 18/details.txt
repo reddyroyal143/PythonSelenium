@@ -20,6 +20,12 @@ frame
 iframe
 form
 
+window browsers--
+switch_to.window(WindowID)
+
+current_window_handle  ---returns singlr ID
+window_handles---------returns multiple windoe ids
+
 
 
 
